@@ -1,0 +1,238 @@
+
+/*==========================================
+==== This Page is Developed BY M.Ibrahim
+==== URL: fiverribrahm.000webhostapp.com
+==== Profile: fiverr.com/ibrahm; 
+==========================================*/
+
+ 
+body{
+	font-family: 'Muli', sans-serif;
+}
+
+
+/* Box Shadows */
+
+.bsr{
+	box-shadow: 0 5px 10px rgba(198, 44, 40, .1);
+}
+.bsrr{
+	box-shadow: 5px 5px 10px rgba(209, 209, 209, 1);
+}
+.bout_w{
+	border: 1px solid #fff;
+}
+
+/* colors */
+.cr{
+	color: #a81933;
+}
+.cb{
+	color: #161019;
+}
+.cbl{
+	color: #1B2981;
+}
+.ctr{
+	color: rgba(0, 0, 0, .5);
+}
+
+.bgw{
+	background: #fff;
+}
+.bgr{
+	background: #a81933;
+}
+.bgb{
+	background: #080000;
+}
+.bgbl{
+	background: #1B2981;
+}
+.bglbl{
+	background: #edf3fc;
+}
+.bglg{
+	background: rgba(236, 236, 236,.5);
+}
+.bgtrb{
+	background: rgba(27, 41, 129, .5);
+}
+
+
+
+
+/* Font weights */
+.fw9{
+	font-weight: 900;
+}
+.fw8{
+	font-weight: 800;
+}
+.fw7{
+	font-weight: 700;
+}
+.fw6{
+	font-weight: 600;
+}
+.fw5{
+	font-weight: 500;
+}
+.fw4{
+	font-weight: 400;
+}
+.fw3{
+	font-weight: 300;
+}
+.fwb{
+	font-weight: bold !important;
+}
+.fwm{
+	font-weight: 500;
+}
+.fwl{
+	font-weight: lighter;
+}
+
+/* font Sizes */
+.fz10{
+	font-size: 10px !important;
+}
+.fz11{
+	font-size: 11px !important;
+}
+.fz12{
+	font-size: 12px !important;
+}
+.fz14{
+	font-size: 14px !important;
+}
+.fz16{
+	font-size: 16px !important;
+}
+.fz18{
+	font-size: 18px !important;
+}
+.fz20{
+	font-size: 20px !important;
+}
+.fz22{
+	font-size: 22px !important;
+}
+.fz24{
+	font-size: 24px !important;
+}
+.fz26{
+	font-size: 26px !important;
+}
+.fz28{
+	font-size: 28px !important;
+}
+.fz30{
+	font-size: 30px !important;
+}
+.fz40{
+	font-size: 40px !important;
+}
+.fz50{
+	font-size: 50px !important;
+}
+
+
+/* Borders */
+
+.bn{
+	border: none;
+}
+.br0{
+	border-radius: 0 !important;
+}
+.br10{
+	border-radius: 10px;
+}
+.br20{
+	border-radius: 20px;
+}
+.br30{
+	border-radius: 30px;
+}
+.br40{
+	border-radius: 40px;
+}
+.br50{
+	border-radius: 50px;
+}
+
+.brc{
+	border-radius: 50%;
+}
+
+/* Anchor Tags */
+.tdn{
+	text-decoration: none !important;
+}
+.tdu{
+	text-decoration: underline;
+}
+
+
+/* Postions */
+.posr{
+	position: relative;
+}
+.posf{
+	position: fixed;
+}
+.posa{
+	position: absolute;
+}
+
+
+/* overflows */
+.oxh{
+	overflow-x: hidden;
+}
+.oyh{
+	overflow-y: hidden;
+}
+.oxs{
+	overflow-x: scroll;
+}
+.oys{
+	overflow-y: scroll;
+}
+
+
+/* NAvBAR */
+header{
+	top:0;
+}
+.navbar-brand img{
+	height: 70px;
+}
+
+ .navbar-dark .navbar-nav .nav-link{
+ 	color: #fff !important;
+ 	font-weight: 400;
+ 	padding-right: 10px;
+ 	padding-left: 10px;
+ 	font-size: 14px;
+ }
+ .navbar-dark .navbar-nav .nav-item.active .nav-link{
+	color: #a81933 !important;
+ }
+
+ @media(max-width: 992px){
+ 	.navbar-nav{
+ 		background: rgba(0, 0, 0, .7);
+ 		padding: 20px;
+ 		border-radius: 10px;
+ 		z-index: 99;
+ 		position: relative;
+ 	}
+ }
+
+ /* Footer */
+footer img{
+	width: 120px;
+}

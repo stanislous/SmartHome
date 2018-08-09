@@ -1,0 +1,73 @@
+/*==========================================
+==== This Page is Developed BY M.Ibrahim
+==== URL: fiverribrahm.000webhostapp.com
+==== Profile: fiverr.com/ibrahm; 
+==========================================*/
+
+
+ /* hero */
+ .hero {
+ 	height: 100vh;
+ 	min-height: 700px;
+ 	background: url('../img/hero.jpg')no-repeat center center;
+ 	background-size: cover;
+ }
+
+.hero .icon img{
+	max-width: 50px;
+}
+
+ /* Sub Banners */
+ .bx{
+ 	min-height: 270px;
+ }
+ .bx a.btn{
+ 	border: 1px solid #fff;
+ 	transition: 1s;
+ }
+ .bx a.btn:hover{
+ 	background: #fff;
+ 	color: #000 !important;
+ 	font-weight: bold;
+ 	padding-right: 20px;
+ 	padding-left: 20px;
+ }
+ .bx1{
+ 	background: url('../img/img1-h.jpg')no-repeat center center;
+ 	background-size: cover;
+ }
+ .bx2{
+ 	background: url('../img/img2-h.jpg')no-repeat center center;
+ 	background-size: cover;
+ }
+ .bx3{
+ 	background: url('../img/img3-h.jpg')no-repeat center center;
+ 	background-size: cover;
+ }
+
+
+ /* about */
+ .ABT{
+ 	background: url('../img/about.jpg')no-repeat center center;
+ 	background-size: cover;
+ }
+ @media(max-width: 992px){
+ 	.ABT{
+ 		background: #edf3fc;
+ 	}
+ }
+
+
+/* MAP */
+@media(max-width: 480px){
+	.prt{
+		min-width: 30%;
+	}
+	h2{
+		font-size: 22px;
+	}
+	p{
+		font-size: 14px;
+	}
+}
+

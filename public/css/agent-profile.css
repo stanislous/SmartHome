@@ -1,0 +1,22 @@
+.LST .box{
+	padding-top: 130px;
+}
+
+.LST .bx1{
+	background: url('../img/back-img1.png')no-repeat center center;
+	background-size: cover;
+}
+.LST .bx2{
+	background: url('../img/back-img1.png')no-repeat center center;
+	background-size: cover;
+}
+.LST .bx3{
+	background: url('../img/back-img1.png')no-repeat center center;
+	background-size: cover;
+}
+
+@media(max-width: 768px){
+	.LST .inbox p.lead,.LST .inbox a.btn{
+		font-size: 12px !important;
+	}
+}

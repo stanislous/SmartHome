@@ -1,0 +1,27 @@
+a.btn.gbr{
+	border: 1px solid #ced4da;
+}
+
+.bxs{
+	max-height: 900px;
+	overflow-y: scroll;
+	overflow-x: hidden
+}
+.bxs .bx1{
+	margin: 5px;
+	max-width: 300px;
+	display: inline-block;
+}
+.bxs p{
+	margin-bottom: 5px;
+}
+
+@media(max-width: 992px){
+	form ul{
+		text-align: center;
+	}
+	form ul li{
+		margin-top: 10px;
+		display: block !important;
+	}
+}
